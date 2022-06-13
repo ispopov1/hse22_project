@@ -1,6 +1,6 @@
 # hse22_project
-###Таксон группы: Betaproteobacteria
-###Род: Bordetella (прокариот)
+### Таксон группы: Betaproteobacteria
+### Род: Bordetella (прокариот)
 Выбранные геномы:
 Bordetella avium 197N,
 Bordetella bronchialis,
