@@ -621,4 +621,14 @@ WP_066669453.1      QRAGLGLLAGLMGLALFNDFARLFT
   ```
 </details> 
 
-## Графическая визуализация расположения Z-DNA относительно гомологичных генов из разных организмов
+## Расположение промотерных z-dna относительно генов
+![image](https://user-images.githubusercontent.com/55449081/173465879-c76dbbd5-989f-4dd1-8e6d-32c88fa7db48.png)
+![image](https://user-images.githubusercontent.com/55449081/173465889-abaadb4a-231a-4741-914f-cacc0c382fd3.png)
+![image](https://user-images.githubusercontent.com/55449081/173465897-2a05a452-2aa7-400d-8c52-d3514ae2b5f0.png)
+![image](https://user-images.githubusercontent.com/55449081/173465907-b2df8198-6451-45c7-8446-48ad8b070a67.png)
+![image](https://user-images.githubusercontent.com/55449081/173465916-a310032e-99ea-4ea9-ab9e-4b3e7b02ae80.png)
+![image](https://user-images.githubusercontent.com/55449081/173465925-e61724be-967c-42ef-8a33-8b341bbeccee.png)
+![image](https://user-images.githubusercontent.com/55449081/173465941-c305156f-21f6-484e-acf0-914f64b8ec28.png)
+![image](https://user-images.githubusercontent.com/55449081/173465952-b6168ee9-7e30-4e40-909c-bf8acbf7376f.png)
+![image](https://user-images.githubusercontent.com/55449081/173465959-ef0250ce-fbea-4604-a704-62ca75841fa1.png)
+![image](https://user-images.githubusercontent.com/55449081/173465965-513df730-6cb4-454c-83a4-121272f41f99.png)
