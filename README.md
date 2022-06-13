@@ -12,8 +12,6 @@ Colab: https://colab.research.google.com/drive/1ksgmGjgCSA4HXmPC_yaepOyRp2Dw6fBU
 ## Таблица с данными аннотированных генов
 ![image](https://user-images.githubusercontent.com/55449081/173464410-c0f2b94b-4b26-4b6b-9d1c-0b1208014822.png)
 
-## Сводная таблица с информацией по участков Z-dna > 500
-
 ## Распределение Zh-score
 ![image](https://user-images.githubusercontent.com/55449081/173464463-411123a9-2dc4-45e1-beef-40828097fc8e.png)
 ![image](https://user-images.githubusercontent.com/55449081/173464477-06962e0c-e13b-43b1-9651-0f25a001f9ed.png)
@@ -28,9 +26,8 @@ Colab: https://colab.research.google.com/drive/1ksgmGjgCSA4HXmPC_yaepOyRp2Dw6fBU
 ![image](https://user-images.githubusercontent.com/55449081/173464669-4c7e2333-f36b-4d5c-a963-8af6b538dff7.png)
 ![image](https://user-images.githubusercontent.com/55449081/173464675-af671567-45ed-4eb8-a2b7-4f9cea5d1d94.png)
 
-## Гистограмма кластеров по кол-ву разных геномов в кластере
+## Кол-во разных геномов в кластере
 ![image](https://user-images.githubusercontent.com/55449081/173464760-b8c33aa2-3e93-4546-8a0b-afd4d7614311.png)
-![image](https://user-images.githubusercontent.com/55449081/173464766-47672324-19eb-4434-a193-1a2895e1423a.png)
 
 ## Кластеры гомологов-белков
 ![image](https://user-images.githubusercontent.com/55449081/173464944-34619e70-0d8d-42ed-be17-a825a7e49f2b.png)
