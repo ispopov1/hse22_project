@@ -9,8 +9,10 @@ Bordetella flabilis,
 Bordetella hinzii
 
 Colab: https://colab.research.google.com/drive/1ksgmGjgCSA4HXmPC_yaepOyRp2Dw6fBU?usp=sharing
-## Таблица с данными аннотированных генов
+## Таблицы с данными аннотированных генов
 ![image](https://user-images.githubusercontent.com/55449081/173464410-c0f2b94b-4b26-4b6b-9d1c-0b1208014822.png)
+![image](https://user-images.githubusercontent.com/55449081/173466493-a65f7fbe-2fab-4f43-94bd-9ba87ad75e14.png)
+
 
 ## Распределение Zh-score
 ![image](https://user-images.githubusercontent.com/55449081/173464463-411123a9-2dc4-45e1-beef-40828097fc8e.png)
@@ -30,6 +32,7 @@ Colab: https://colab.research.google.com/drive/1ksgmGjgCSA4HXmPC_yaepOyRp2Dw6fBU
 ![image](https://user-images.githubusercontent.com/55449081/173464760-b8c33aa2-3e93-4546-8a0b-afd4d7614311.png)
 
 ## Кластеры гомологов-белков
+Всего кластеров - 5334
 ![image](https://user-images.githubusercontent.com/55449081/173464944-34619e70-0d8d-42ed-be17-a825a7e49f2b.png)
 
 ## Множественное белковое выравнивание
